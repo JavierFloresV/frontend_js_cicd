@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return ( <
         footer >
-        Esta es la prueba de test a produc de Javier <
+        FOOTER MODIFICADO POR SEGUNDA VEZ <
         /footer>
     );
 }
